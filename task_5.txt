@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿изменено для лабы 
+=======
+﻿изменено для лабы
+>>>>>>> efa2a44 (Change  task_5.txt in branch Kalinin_task_1)
